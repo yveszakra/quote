@@ -1,6 +1,6 @@
 # quote
 
-A new Flutter application.
+Practice building Flutter app with Dart language. This app displays a few impactful quotes. 
 
 ## Getting Started
 
